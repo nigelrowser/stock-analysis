@@ -10,4 +10,4 @@ The objective of this project was to calculate the stock performance of differen
 ![](VBA_Challenge_2018.png)
 2018Data
 
-The results show that in 2017 the solar sector had a better performance overview. In 2018, only two companies posted positive results for the entire year.
+The results show that in 2017 the solar sector had a better performance overall. In 2018, only two companies posted positive results for the entire year.
